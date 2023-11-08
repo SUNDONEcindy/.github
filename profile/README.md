@@ -4,7 +4,7 @@ Family business focusing on bringing technology solutions to society for good.
 ## Products
 | Product | Status | Description |
 | ------- | ------ | ----------- |
-| Classroom Sync | Development | Google Sheets Add-On to sync classes, rosters, assignemnts and grades between Google Classroom and Blackbaud Student Information System |
+| Classroom Sync | Development | Google Sheets Add-On to sync classes, rosters, assignments and grades between Google Classroom and Blackbaud Student Information System |
 
 ## Working Practices
 Project management follows an agile framework using GitHub issues and projects.
